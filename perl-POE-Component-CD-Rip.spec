@@ -4,7 +4,6 @@
 
 %define		pdir	POE
 %define		pnam	Component-CD-Rip
-%include	/usr/lib/rpm/macros.perl
 Summary:	POE::Component::CD::Rip - POE component for running cdparanoia, a CD ripper
 Summary(pl.UTF-8):	POE::Component::CD::Rip - komponenty POE do ripowania CD przy pomocy cdparanoi
 Name:		perl-POE-Component-CD-Rip
